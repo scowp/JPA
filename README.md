@@ -1,1 +1,1 @@
-projetinho simples de insercao de dados usando o hibernate
+projetinho simples de insercao de dados usando o hibernate!
